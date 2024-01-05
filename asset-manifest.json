@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kollamoramvineetha/myassign/static/css/main.acb6dfb7.css",
+    "main.js": "/kollamoramvineetha/myassign/static/js/main.ad575238.js",
+    "static/js/787.0c1160fe.chunk.js": "/kollamoramvineetha/myassign/static/js/787.0c1160fe.chunk.js",
+    "index.html": "/kollamoramvineetha/myassign/index.html",
+    "main.acb6dfb7.css.map": "/kollamoramvineetha/myassign/static/css/main.acb6dfb7.css.map",
+    "main.ad575238.js.map": "/kollamoramvineetha/myassign/static/js/main.ad575238.js.map",
+    "787.0c1160fe.chunk.js.map": "/kollamoramvineetha/myassign/static/js/787.0c1160fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb6dfb7.css",
+    "static/js/main.ad575238.js"
+  ]
+}
