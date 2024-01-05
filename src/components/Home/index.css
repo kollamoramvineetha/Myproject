@@ -1,0 +1,158 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .card3{
+    display: flex;
+    flex-direction: row;
+  }
+  .card4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .card2{
+    display: flex;
+    height: 500px;
+    width: 777px;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+  }
+  .text-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 10px;
+  }
+  button{
+    background-color: transparent;
+    border: none;
+  }
+  .project{
+    text-decoration: underline;
+    text-decoration-color: #ffc637;
+  }
+  .card5{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 150px;
+  }
+  input{
+    width: 100%;
+    margin-top: 20px;
+    Width:400px;
+    Height:40px;
+    Top:151px;
+    Left:205px;
+    border-radius:8px;
+    Border:1px;
+    background-color: #FFFFFF;
+  }
+  textarea{
+    width: 100%;
+    margin-top: 20px;
+    Width:400px;
+    Height:40px;
+    Top:151px;
+    Left:205px;
+    border-radius:8px;
+    Border:1px;
+    background-color: #FFFFFF;
+  }
+  .card12{
+    height: 200px;
+    width: 300px;
+  }
+  .card6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  li{
+    list-style: none;
+    padding: 20px;
+    margin: 10px;
+  }
+  nav{
+    padding: 20px;
+    margin: 20px;
+  }
+  .projects-button{
+    Width:115px;
+    height: 43px;
+    top: 104px;
+    left: -113px;
+    border-radius: 8px;
+    padding: 8px ,24px ,8px, 24px;
+    background-color: #ffc637;
+    margin-top: 20px;
+  }
+  .card13{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .contact-card{
+    display: flex;
+    justify-content: center;
+  }
+  .card7{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+  }
+  nav{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .card8{
+    color: #000;
+    font-weight: bold;
+  }
+  .linkdein-card{
+    Width:117px;
+    height:43px;
+    top:104px;
+    left:13px;
+    border-radius:8px;
+    border:2px;
+    padding:8px, 24px, 8px, 24px;
+    border-color: #25282B;
+    border-style: solid;
+    margin-left: 10px;
+  }
+  .vector-card{
+    width: 100%;
+  
+  }
+  ul{
+    width: 496px;
+    height: 524px;
+    padding: 146.5px, 38.88px, 145.5px, 50.44px;
+  
+  }
+  .viewProject{
+    width: 150px;
+    height: 43px;
+    padding: 8px, 24px, 8px, 24px;
+    border-radius: 24px;
+    border-style: solid;
+    color:#25282B;
+    border: 1px;
+    border-color: #25282B;
+  
+  }
